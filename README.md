@@ -1,0 +1,2 @@
+# Real-Time-Food-Delivery-Data-Pipeline-PySpark-Kafka-
+End-to-end Change Data Capture (CDC) streaming pipeline using Apache Spark, Kafka, and PostgreSQL. This project simulates a real-time food delivery order system where new records from a PostgreSQL database are incrementally captured and published to Kafka consumed via Spark Structured Streaming and stored in a partitioned Parquet-based data lake.
